@@ -6,7 +6,11 @@
 #   Download cli53-linux-amd64 to folder where you want to place your scripts and give permissions to execute chmod +x cli53-linux-amd64
 #   cli53 repo: https://github.com/barnybug/cli53
 #   before start configure the auth of AWS and GCP - Configure the project to import zones
-#  IMPORTANT: This 
+#   References: 
+#   https://cloud.google.com/sdk/gcloud/reference/dns/record-sets/import - 
+#   https://cloud.google.com/dns/records#gcloud_1
+#   https://github.com/barnybug/cli53
+#
 #   Made by https://github.com/Alberto-mb/gcp-scripts
 #####################################################################################
 
